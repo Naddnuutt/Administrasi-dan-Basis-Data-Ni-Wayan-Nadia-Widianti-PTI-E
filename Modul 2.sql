@@ -1,5 +1,5 @@
--- NAMA : Afrizan Hidayat
--- NIM  : 24241188
+-- NAMA : Ni Wayan Nadia Widianti
+-- NIM  : 24241158
 -- KELAS : E 
 -- MODUL : 2
 
